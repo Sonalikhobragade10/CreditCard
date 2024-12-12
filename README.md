@@ -1,2 +1,2 @@
-# CreditCard
-Created dynamic visualizations to analyze credit card transactions using Mysql database.
+# Credit_Card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
